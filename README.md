@@ -36,7 +36,8 @@ Abrir la carpeta descargada del bot, abrir el archivo `config.json` y edite los 
 
 "idcanalreportes" : "Copiar el ID del canal donde se mostraran los reportes generados para ser verificados."
 
-"rolname" : "Nombre del rol, quienes tendran acceso a verificar los reportes generados. Ejm: `verificadores, admin, staff` (el rol debe estar creado primero en su servidor.)"
+"rolname" : "Nombre del rol, quienes tendran acceso a verificar los reportes generados. Ejm: `verificadores, admin, staff`".
+(el rol debe estar creado primero en su servidor)
 
 
 
