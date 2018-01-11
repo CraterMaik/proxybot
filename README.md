@@ -9,28 +9,17 @@ Una vez que tenga el node instalado, Descargar el archivo .zip y descomprimelo e
     <img src="https://i.imgur.com/EkRunBv.png" alt="img">
 </p>
 
-Abrir la carpeta descargada del bot y abrir el archivo
+Abrir la carpeta descargada del bot y abrir el archivo `config.json` y edite los datos del archivo.
 
-ejecutándose npm installdesde el directorio bot debería instalar todos los paquetes necesarios. Si este comando imprime errores, ¡el bot no funcionará!
-
->**Description:** Delete a character of the given name (you must be the owner)
-
-
-#### USO
->**Usage:** `rp!character [delete|remove|supprimer
-] <name>`
->**Description:** Roll a number of dice with given sides (ndx notation)
-Example: rp!rtd 3d7 2d4
-Optional Additions:
-    Test for success by adding a >/<#
-    Grab the top n rolls by adding ^n
-    Add to the final roll by just adding a number (pos or neg)
-
-    Examples of all:
-        rp!rtd 8d8 -12 15 ^4 >32
-
-        -> Roll failed (30 > 32) ([
-    8 + 7 + 6 + 6
+    {
+    "token":"TOKENBOT",
+    "prefix":"!!y",
+    "idbot": "IDBOT",
+    "idcanalverificados":"IDCANAL",
+    "idcanalreportes":"IDCANAL",
+    "rolname":"NOMBRE-ROL"
+    
+    }
 
 
 <p align="center">
