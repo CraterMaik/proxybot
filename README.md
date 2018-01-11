@@ -1,7 +1,12 @@
 # proxy-bot
-Proxy es un bot Discord de registros de reportes, podrás generar un reporte a un usuario por spamer raiders links, entre otros tambien listar el historial de ello y mas funciones como log de ban, remove ban, banslist  y de ingreso de usuarios..
+Proxy es un bot Discord de registros de reportes basado en [Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome), podrás generar un reporte a un usuario por spamer raiders links, entre otros tambien listar el historial de ello y mas funciones como log de ban, remove ban, banslist  y de ingreso de usuarios.
 
 #### INSTALACION
+Este bot usa node.js  para ejecutarse. Por favor, consulte https://nodejs.org/es/ e instale la versión recomendara v8.x.
+
+Una vez que tenga el node instalado, Descargar el archivo .zip
+
+ejecutándose npm installdesde el directorio bot debería instalar todos los paquetes necesarios. Si este comando imprime errores, ¡el bot no funcionará!
 
 >**Description:** Delete a character of the given name (you must be the owner)
 
