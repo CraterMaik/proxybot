@@ -70,3 +70,16 @@ Para iniciar el bot simplemente ejecute `node proxy.js` en la consola CMD. si el
 
 #### COMANDOS
 
+`!!ygreporte`             :: Genera un reporte de spam/flood/otros a un usuario.
+
+`!!ylreporte [IDUSER]`    :: Lista el historial de reportes de un usuario.
+
+`!!ydreporte [IDREPORTE]` :: Lista el detalle de un reporte generado.
+
+`!!yhis [log|bans|servers|banslist] [IDUSER]` :: Lista el historial de logs/bans/servers/banslist de un usuario.
+
+`!!yrep [aceptar|rechazar] [IDREPORTE]` :: Aceptar o rechazar un reporte generado despues de ser verificado.
+
+`!!ysoporte`  :: Contacte con el soporte del Bot.
+
+`!!yinvite`   :: Genera un enlace de invitación del bot.
