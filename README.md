@@ -58,3 +58,8 @@ dentro de la carpeta del bot `cd desktop/proxybot-master`.
 </p>
 
 Y ejecuté `npm install` para instalar todos los paquetes necesarios.
+<p align="center">
+    <img src="https://i.imgur.com/pCcN8DM.png" alt="img">
+</p>
+
+Si este imprime errores, ¡el bot no funcionará!
