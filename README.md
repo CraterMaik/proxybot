@@ -51,3 +51,10 @@ Una vez editado todo los datos y guardar los cambios bebe quedar de esta similar
     }
 
 
+Despues de configurar los archivos, vamos a ejecutar el bot, para comenzar primero debe abrir la consola CMD
+dentro de la carpeta del bot `cd desktop/proxybot-master`.
+<p align="center">
+    <img src="https://i.imgur.com/y56KzTh.png" alt="img">
+</p>
+
+Y ejecuté `npm install` para instalar todos los paquetes necesarios.
