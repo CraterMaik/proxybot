@@ -62,4 +62,11 @@ Y ejecuté `npm install` para instalar todos los paquetes necesarios.
     <img src="https://i.imgur.com/pCcN8DM.png" alt="img">
 </p>
 
-Si este imprime errores, ¡el bot no funcionará!
+Si este imprime errores, ¡el bot no funcionará!. Si tiene alguna pregunta y/o duda visite el servidor de discord.
+
+#### INICIAR BOT
+
+Para iniciar el bot simplemente ejecute `node proxy.js` en la consola CMD. si el bot no emite ningun error el bot debe estar listo y activado en su servidor.
+
+#### COMANDOS
+
