@@ -1,5 +1,5 @@
 # proxy-bot
-Bot Discord
+Proxy es un bot Discord de registros de reportes, podrás generar un reporte a un usuario por spamer raiders links, entre otros tambien listar el historial de ello y mas funciones como log de ban, remove ban, banslist  y de ingreso de usuarios..
 
 #### INSTALACION
 
