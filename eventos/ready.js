@@ -1,6 +1,6 @@
 exports.run = (client) => {
     
-    client.user.setGame(`!!yhelp | Beta`).catch(console.error);
+    client.user.setGame(`!!yhelp | rReportes`).catch(console.error);
     console.log('Listo...');
    
    
