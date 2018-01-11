@@ -3,8 +3,11 @@ Proxy es un bot Discord de registros de reportes basado en [Discord.js](https://
 
 #### INSTALACION
 Este bot usa node.js  para ejecutarse. Por favor, consulte https://nodejs.org/es/ e instale la versión recomendara v8.x.
-
 Una vez que tenga el node instalado, Descargar el archivo .zip
+
+<p align="center">
+    <img src="https://i.imgur.com/EkRunBv.png" alt="img">
+</p>
 
 ejecutándose npm installdesde el directorio bot debería instalar todos los paquetes necesarios. Si este comando imprime errores, ¡el bot no funcionará!
 
@@ -26,7 +29,7 @@ Optional Additions:
 
         -> Roll failed (30 > 32) ([
     8 + 7 + 6 + 6
-] + -12 + 15) (Grabbed top 4 out of 8)
+
 
 <p align="center">
   <a href="https://discord.gg/VxwER6t"><img src="https://discordapp.com/api/guilds/312846399731662850/widget.png?style=banner2" alt="Discord server"></a>
