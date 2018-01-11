@@ -26,5 +26,17 @@ Abrir la carpeta descargada del bot, abrir el archivo `config.json` y edite los 
     
     }
 
+"token" : "Para obtener un token debes crear tu app de discord API, [Crear una app discord](http://www.craterdev.com/documentacion-mybot/guia/cuenta-app-bot.html) y copiar el token de tu bot ".
+
+"prefix" : " Aqui debes ingresar un prefix para tu bot. Ejm `!!, -, +, ?, !!y`."
+
+"idbot" : "Copiar el ID de tu bot creado anteriormente."
+
+"idcanalverificados" : "Copiar el ID del canal donde se mostrara los reportes verificados, ACEPTADOS o RECHAZADOS."
+
+"idcanalreportes" : "Copiar el ID del canal donde se mostraran los reportes generados para ser verificados."
+
+"rolname" : "Nombre del rol, quienes tendran acceso a verificar los reportes generados. Ejm: `verificadores, admin, staff` (el rol debe estar creado primero en su servidor.)"
+
 
 
