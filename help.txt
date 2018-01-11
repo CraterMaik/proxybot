@@ -4,7 +4,7 @@
 ◈ !!ygreporte  :: Genera un reporte de spam/raideo/otros a un usuario.
 ◈ !!ylreporte  :: Lista el historial de reportes de un usuario.
 ◈ !!ydreporte  :: Lista el detalle de un reporte generado.
-
+◈ !!yrep       :: Aceptar o rechazar un reporte generado despues de ser verificado.
 
 == Historiales ==
 ◈ !!yhis       :: Lista el historial de logs/bans/servers/banslist de un usuario.
