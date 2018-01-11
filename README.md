@@ -39,5 +39,15 @@ Abrir la carpeta descargada del bot, abrir el archivo `config.json` y edite los 
 "rolname" : "Nombre del rol, quienes tendran acceso a verificar los reportes generados. Ejm: `verificadores, admin, staff`".
 (el rol debe estar creado primero en su servidor)
 
+Una vez editado todo los datos y guardar los cambios bebe quedar de esta similar manera:
+
+    {
+    "token":"NlYXnEOaBTJGFyfauWu1ktF_BK4-.NlYXnEOaBTJGFyfauWu1ktF_BK4",
+    "prefix":"!!y",
+    "idbot": "388485217112817684",
+    "idcanalverificados":"389901794303803412",
+    "idcanalreportes":"389623701194276864",
+    "rolname":"Administrador"
+    }
 
 
